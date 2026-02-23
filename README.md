@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Pal</h1>
+<h3 align="center">Frontend Developer | BCA Student | JavaScript Learner</h3>
 
-<!--
-**mayankpal932-design/mayankpal932-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **JavaScript & Frontend Development**
+- 💻 Building real-world web projects
+- 🎯 Goal: Become a Professional Frontend Developer
+- ⚡ Passionate about creating interactive and responsive websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+- 🌦 Weather App — Real-time weather application using API & Bootstrap
+- ❌⭕ Tic Tac Toe Game — Interactive game using JavaScript DOM manipulation
+
+---
+
+## 📊 GitHub Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankpal932-design&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/mayankpal932-design
+- LinkedIn: https://www.linkedin.com/in/mayank-pal-b998b738b
+
+---
+
+⭐ From [Mayank Pal](https://github.com/mayankpal932-design)
