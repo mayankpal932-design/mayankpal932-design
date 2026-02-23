@@ -26,9 +26,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayankpal932-design&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankpal932-design)
 
 ---
 
