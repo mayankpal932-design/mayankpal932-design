@@ -20,12 +20,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🌦 Weather App — Real-time weather application using API & Bootstrap
-- ❌⭕ Tic Tac Toe Game — Interactive game using JavaScript DOM manipulation
-
----
-
 ## 🔥 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankpal932-design)
