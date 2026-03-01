@@ -16,6 +16,8 @@
 - CSS3
 - JavaScript
 - Bootstrap
+- SQL
+- My SQL
 - Git & GitHub
 
 ---
